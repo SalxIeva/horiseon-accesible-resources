@@ -23,3 +23,7 @@ Please refer to the LICENSE in the repo.
 ## URL
 
 https://salxieva.github.io/horiseon-accesible-resources/
+
+## Screenshot
+
+![image](https://github.com/SalxIeva/prework-study-guide/assets/133906072/5c382176-96f9-4dda-ae34-050fa9cb5aca)
